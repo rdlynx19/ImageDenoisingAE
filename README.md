@@ -30,6 +30,7 @@ The model is a convolutional neural network (CNN) consisting of 6 layers.
 |  Loss         | MSE Loss     |
 |  Optimizer    | Adam Optimizer|
 
+### Loss Plot
 ![lossgraph](https://user-images.githubusercontent.com/78100512/136921243-5072d0f7-1fb3-486a-99c1-8adac55ce72e.png)
 
 
