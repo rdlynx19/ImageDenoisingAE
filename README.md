@@ -45,7 +45,7 @@ def add_noise(inputs,noise_factor=0.3):
 
 ![](https://i.imgur.com/euMZGeX.png)
 
-
+This project was built as a part of IvLabs Summer Internship 2021. You can refer to the IvLabs repostiory [here](https://github.com/IvLabs/Summer-Projects/tree/main/Summer%202021/Image%20Denoising)
 
 
 
