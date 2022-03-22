@@ -22,9 +22,14 @@ The model is a convolutional neural network (CNN) consisting of 6 layers.
     Layer 6: tConv2d(32,1,3,p=1,s=2,op=1) 
 
 ## Loss Function and Optimization
-Loss function used was Mean Squared Error. <br>
-For optimization, Adam was used with a learning rate of 1e^-3. <br>
-Loss plot for 10 epochs. <br>
+| Hyperparameter |value          |
+| ------------- | ------------- |
+| Batch-Size    | 32            |
+| Learning-rate | 0.001         |
+| num of Epochs | 10            |
+|  Loss         | MSE Loss     |
+|  Optimizer    | Adam Optimizer|
+
 ![lossgraph](https://user-images.githubusercontent.com/78100512/136921243-5072d0f7-1fb3-486a-99c1-8adac55ce72e.png)
 
 
