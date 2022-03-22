@@ -39,11 +39,16 @@ def add_noise(inputs,noise_factor=0.3):
    
 
 ## Result
-![](https://i.imgur.com/3mYUerl.png)  
+<p float="left">
+  <img src="https://i.imgur.com/3mYUerl.png" width="300" />
+  <img src="https://i.imgur.com/Ls7YK7T.png" width="300" /> 
+  <img src="https://i.imgur.com/euMZGeX.png" width="300" />
+</p>
 
-![](https://i.imgur.com/Ls7YK7T.png)  
 
-![](https://i.imgur.com/euMZGeX.png)
+
+
+
 
 This project was built as a part of IvLabs Summer Internship 2021. You can refer to the IvLabs repository [here](https://github.com/IvLabs/Summer-Projects/tree/main/Summer%202021/Image%20Denoising)
 
