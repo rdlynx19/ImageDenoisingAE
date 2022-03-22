@@ -46,9 +46,9 @@ def add_noise(inputs,noise_factor=0.3):
 
 ## Result
 <p float="left">
-  <img src="https://i.imgur.com/3mYUerl.png" width="300" />
-  <img src="https://i.imgur.com/Ls7YK7T.png" width="300" /> 
-  <img src="https://i.imgur.com/euMZGeX.png" width="300" />
+  <img src="https://i.imgur.com/3mYUerl.png" width="330" />
+  <img src="https://i.imgur.com/Ls7YK7T.png" width="330" /> 
+  <img src="https://i.imgur.com/euMZGeX.png" width="330" />
 </p>
 
 
